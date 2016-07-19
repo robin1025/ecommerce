@@ -1,1 +1,1 @@
-# http://ecommerce
+# http://ecommerce.github.io
