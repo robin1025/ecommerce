@@ -1,1 +1,1 @@
-# http://ecommerce.github.io
+# http://ecommerc.github.io
